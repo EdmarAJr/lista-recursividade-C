@@ -1,7 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
-#include <string.h>
 
 /*4) Faca uma funcao recursiva que permita somar os elementos de um vetor de inteiros*/  
 int somarVetor(int v[], int tam) {
