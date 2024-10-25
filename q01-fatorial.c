@@ -1,7 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
-#include <string.h>
 
 /*1) Faca uma funcao recursiva que calcule e retorne o fatorial de um numero inteiro N*/  
 int fatorial (int n){
