@@ -1,7 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
-#include <string.h>
 
 /*6) Crie um programa em C, que contenha uma funcao recursiva que receba dois inteiros positivos k e n e calcule k^n. Utilize apenas multiplicacoes. O programa principal deve solicitar ao usuario os valores de k e n e imprimir o resultado da chamada da funcao.*/  
 
