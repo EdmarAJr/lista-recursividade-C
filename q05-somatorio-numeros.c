@@ -1,7 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
-#include <string.h>
 
 /*5) Crie uma funcao recursiva que receba um numero inteiro positivo N e calcule o somatorio dos numeros de 1 a N.*/  
 
