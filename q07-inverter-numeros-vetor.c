@@ -1,7 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
-#include <string.h>
 
 /*7) Crie um programa em C que receba um vetor de numeros reais com 100 elementos. Escreva uma funcao recursiva que inverta ordem dos elementos presentes no vetor.*/  
 int inverter(int v[], int tam){
